@@ -1,4 +1,4 @@
-# Deployment Guide for Reminder Kar Legal Website
+# Deployment Guide for Remind Kar Legal Website
 
 ## Quick Deployment Steps
 

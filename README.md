@@ -1,6 +1,6 @@
-# Reminder Kar - Terms and Conditions
+# Remind Kar - Terms and Conditions
 
-This is a single-page React.js website that displays the Terms and Conditions for the Reminder Kar mobile application. The website is designed to be professional and compliant with Google Play Store requirements.
+This is a single-page React.js website that displays the Terms and Conditions for the Remind Kar mobile application. The website is designed to be professional and compliant with Google Play Store requirements.
 
 ## Features
 
@@ -73,8 +73,8 @@ The Terms & Conditions and Privacy Policy have been written to be compliant with
 
 For questions about the app or legal documents:
 - Email: mesumnaqvi530@gmail.com
-- App Name: Reminder Kar
+- App Name: Remind Kar
 
 ## License
 
-This project is created for the Reminder Kar mobile application.
+This project is created for the Remind Kar mobile application.

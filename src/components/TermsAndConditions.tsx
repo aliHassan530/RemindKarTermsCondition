@@ -10,8 +10,8 @@ const TermsAndConditions: React.FC = () => {
         
         <div className="content">
           <p>
-            Welcome to Reminder Kar ("we," "our," or "us"). These Terms and Conditions ("Terms") 
-            govern your use of the Reminder Kar mobile application (the "Service") operated by us.
+            Welcome to Remind Kar ("we," "our," or "us"). These Terms and Conditions ("Terms") 
+            govern your use of the Remind Kar mobile application (the "Service") operated by us.
           </p>
           
           <p>
@@ -22,7 +22,7 @@ const TermsAndConditions: React.FC = () => {
           <section>
             <h2>1. Acceptance of Terms</h2>
             <p>
-              By accessing and using Reminder Kar, you accept and agree to be bound by the terms 
+              By accessing and using Remind Kar, you accept and agree to be bound by the terms 
               and provision of this agreement. Additionally, when using this app's particular 
               services, you shall be subject to any posted guidelines or rules applicable to such services.
             </p>
@@ -30,7 +30,7 @@ const TermsAndConditions: React.FC = () => {
 
           <section>
             <h2>2. Description of Service</h2>
-            <p>Reminder Kar is a productivity application that provides the following features:</p>
+            <p>Remind Kar is a productivity application that provides the following features:</p>
             <ul>
               <li>Event creation and management</li>
               <li>Reminder notifications</li>
@@ -46,7 +46,7 @@ const TermsAndConditions: React.FC = () => {
           <section>
             <h2>3. User Accounts and Registration</h2>
             <p>
-              You may use Reminder Kar in offline mode without creating an account, or create an 
+              You may use Remind Kar in offline mode without creating an account, or create an 
               account using Firebase authentication for cloud synchronization features.
             </p>
             <p>
@@ -82,7 +82,7 @@ const TermsAndConditions: React.FC = () => {
           <section>
             <h2>5. Data Storage and Backup</h2>
             <p>
-              Reminder Kar offers both local and cloud storage options. Local data is stored on 
+              Remind Kar offers both local and cloud storage options. Local data is stored on 
               your device using secure storage methods. Cloud data is stored using Firebase services.
             </p>
             <p>
@@ -112,7 +112,7 @@ const TermsAndConditions: React.FC = () => {
             <h2>7. Intellectual Property Rights</h2>
             <p>
               The Service and its original content, features, and functionality are and will remain 
-              the exclusive property of Reminder Kar and its licensors. The Service is protected by 
+              the exclusive property of Remind Kar and its licensors. The Service is protected by 
               copyright, trademark, and other laws.
             </p>
           </section>
@@ -129,7 +129,7 @@ const TermsAndConditions: React.FC = () => {
           <section>
             <h2>9. Limitation of Liability</h2>
             <p>
-              In no event shall Reminder Kar, nor its directors, employees, partners, agents, 
+              In no event shall Remind Kar, nor its directors, employees, partners, agents, 
               suppliers, or affiliates, be liable for any indirect, incidental, special, 
               consequential, or punitive damages, including without limitation, loss of profits, 
               data, use, goodwill, or other intangible losses, resulting from your use of the Service.
@@ -173,7 +173,7 @@ const TermsAndConditions: React.FC = () => {
             </p>
             <p>
               <strong>Email:</strong> <a href="mailto:mesumnaqvi530@gmail.com">mesumnaqvi530@gmail.com</a><br/>
-              <strong>App Name:</strong> Reminder Kar
+              <strong>App Name:</strong> Remind Kar
             </p>
           </section>
           
