@@ -1,46 +1,80 @@
-# Getting Started with Create React App
+# Reminder Kar - Terms and Conditions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a single-page React.js website that displays the Terms and Conditions for the Reminder Kar mobile application. The website is designed to be professional and compliant with Google Play Store requirements.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Professional Terms & Conditions**: Comprehensive legal document covering app usage, user conduct, data storage, and liability
+- **Single Page Application**: Direct access to Terms and Conditions without navigation
+- **Responsive Design**: Mobile-friendly design that works on all devices
+- **Modern UI**: Clean, professional interface with gradient backgrounds and smooth animations
+- **Play Store Compliant**: Meets all Google Play Store requirements for legal documents
 
-### `npm start`
+## Page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Terms & Conditions** (`/`): Complete terms of service displayed directly
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- React 19.2.3
+- TypeScript
+- React Router DOM
+- CSS3 with modern features (Grid, Flexbox, Gradients)
+- Responsive design principles
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Node.js (version 16 or higher)
+- npm or yarn
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-### `npm run eject`
+3. Start the development server:
+   ```bash
+   npm start
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Building for Production
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+npm run build
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+This builds the app for production to the `build` folder.
 
-## Learn More
+## Deployment
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The website can be deployed to any static hosting service such as:
+- Netlify
+- Vercel
+- GitHub Pages
+- Firebase Hosting
+- AWS S3 + CloudFront
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Legal Compliance
+
+The Terms & Conditions and Privacy Policy have been written to be compliant with:
+- Google Play Store requirements
+- GDPR (General Data Protection Regulation)
+- CCPA (California Consumer Privacy Act)
+- General mobile app privacy standards
+
+## Contact
+
+For questions about the app or legal documents:
+- Email: mesumnaqvi530@gmail.com
+- App Name: Reminder Kar
+
+## License
+
+This project is created for the Reminder Kar mobile application.
