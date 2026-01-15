@@ -37,7 +37,7 @@ const TermsAndConditions: React.FC = () => {
               <li>Shopping list management</li>
               <li>Timer functionality</li>
               <li>PDF generation and sharing</li>
-              <li>Local and cloud data storage options</li>
+              <li>Local data storage only (no cloud storage)</li>
               <li>User authentication (login and password reset via Firebase)</li>
               <li>Account deletion and password reset from Settings</li>
             </ul>
@@ -47,7 +47,7 @@ const TermsAndConditions: React.FC = () => {
             <h2>3. User Accounts and Registration</h2>
             <p>
               You may use Remind Kar in offline mode without creating an account, or create an 
-              account using Firebase authentication for cloud synchronization features.
+              account using Firebase authentication for sign-in only. The app does not store user data in the cloud.
             </p>
             <p>
               When you create an account with us, you must provide information that is accurate, 
@@ -82,8 +82,7 @@ const TermsAndConditions: React.FC = () => {
           <section>
             <h2>5. Data Storage and Backup</h2>
             <p>
-              Remind Kar offers both local and cloud storage options. Local data is stored on 
-              your device using secure storage methods. Cloud data is stored using Firebase services.
+              All app data is stored locally on your device using secure storage methods. Firebase is used only for authentication (sign-in, sign-out, and password reset). The app does not store user data in the cloud.
             </p>
             <p>
               While we strive to maintain data integrity, you acknowledge that you are solely 
@@ -91,7 +90,7 @@ const TermsAndConditions: React.FC = () => {
             </p>
             <div className="notice">
               <p>
-                <strong>Local Storage:</strong> Certain app data is stored locally on your device. If you uninstall the app, all locally stored data is cleared by the operating system and will no longer be available. Data synchronized to the cloud remains accessible when you sign in again.
+                <strong>Local Storage:</strong> Certain app data is stored locally on your device. If you uninstall the app, all locally stored data is cleared by the operating system and will no longer be available.
               </p>
             </div>
           </section>
@@ -100,7 +99,7 @@ const TermsAndConditions: React.FC = () => {
             <h2>6. App Permissions</h2>
             <p>The app requires the following permissions to function properly:</p>
             <ul>
-              <li><strong>Internet Access:</strong> For cloud synchronization and Firebase authentication</li>
+              <li><strong>Internet Access:</strong> For Firebase authentication (sign-in/sign-out and password reset)</li>
               <li><strong>Exact Alarm Scheduling:</strong> For precise reminder notifications</li>
               <li><strong>Notifications:</strong> To display reminders and alerts</li>
               <li><strong>Audio Recording:</strong> For voice memo features</li>
@@ -184,15 +183,15 @@ const TermsAndConditions: React.FC = () => {
             </p>
             <ul>
               <li><strong>Reset Password:</strong> Initiate a password reset through Firebase to receive a secure reset link via email.</li>
-              <li><strong>Delete Account:</strong> Permanently delete your account. This removes your user credentials and cloud-synchronized data associated with Firebase.</li>
+              <li><strong>Delete Account:</strong> Permanently delete your account. This removes your Firebase user credentials. App data is stored locally and is cleared when you uninstall the app.</li>
             </ul>
           </section>
           
           <section>
             <h2>15. Account Deletion and Data Handling</h2>
             <p>
-              Deleting your account will remove your Firebase-authenticated profile and cloud-synchronized data. 
-              Locally stored data resides on your device and, as noted, is cleared when the app is uninstalled by the operating system.
+              Deleting your account will remove your Firebase-authenticated profile. 
+              Locally stored app data resides on your device and, as noted, is cleared when the app is uninstalled by the operating system.
             </p>
             <p>
               Some operations may require re-authentication to protect your account. After deletion, you can create a new account at any time.
