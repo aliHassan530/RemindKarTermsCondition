@@ -171,7 +171,7 @@ const TermsAndConditions: React.FC = () => {
               For support or any questions, reach out to us:
             </p>
             <p>
-              <strong>Email:</strong> <a href="mailto:mesumnaqvi530@gmail.com">mesumnaqvi530@gmail.com</a><br/>
+              <strong>Email:</strong> <a href="mailto:ah7163259@gmail.com">mesumnaqvi530@gmail.com</a><br/>
               <strong>App Name:</strong> Remind Kar
             </p>
           </section>
